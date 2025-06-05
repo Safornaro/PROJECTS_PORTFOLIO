@@ -23,14 +23,13 @@ Applicare strumenti e metodologie dell’analisi dei dati per trasformare grandi
 |---------|-------------|------------------|
 | `excel-hospitality-marche` | Gestione delle strutture ricettive della Regione Marche con ricerca dinamica, pivot e modello dati relazionale | Excel, Power Query, Power Pivot |
 | `covid-analysis-xypharma` | Analisi strategica dei dati COVID-19 per supportare le decisioni aziendali di XYFARMA | Excel, Power Query, Power Pivot |
+| `sql-toysgroup-sales-analysis` | Progettazione DB relazionale, implementazione SQL e analisi vendite internazionali per l’azienda ToysGroup | SQL (DDL, DML, Query analitiche) |
+| `sql-vendicose-restock-system` | Sistema di gestione stock e rifornimenti automatizzati per una catena di supermercati | SQL, Modellazione E/R, Query complesse |
 | `web-scraping-footwear` | Raccolta e analisi dei dati da siti di calzature sostenibili | Python, BeautifulSoup, Pandas |
 | `excel-sales-dashboard` | Dashboard interattiva per analisi vendite mensili | Excel, Power Query |
 | `sql-customer-analysis` | Analisi di clienti e fatturato su database SQL | SQL |
 | `looker-ecommerce-kpi` | Report Looker Studio su KPI e performance e-commerce | Looker Studio |
 | `data-cleaning-hospital` | Pulizia e normalizzazione dati sanitari disordinati | Python, Pandas |
-
-
-*(Altri progetti in aggiornamento…)*
 
 ---
 
