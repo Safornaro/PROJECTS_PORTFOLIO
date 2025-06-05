@@ -1,4 +1,4 @@
-# 🧸 SQL Case Study – ToysGroup Sales Analysis
+# SQL Case Study – ToysGroup Sales Analysis
 
 Progetto SQL completo per la simulazione di un’azienda multinazionale, **ToysGroup**, specializzata nella vendita di articoli per bambini in diverse regioni del mondo. Il lavoro prevede l’intero ciclo di progettazione e analisi dei dati: dal modello concettuale alla realizzazione fisica del database e all’analisi delle vendite.
 
