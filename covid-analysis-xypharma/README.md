@@ -1,6 +1,6 @@
 # 🦠 Progetto Excel – Analisi COVID-19 per XYFARMA
 
-Progetto realizzato in team durante la Build Week del corso, con l’obiettivo di fornire un’analisi strategica dei dati COVID-19 all’azienda farmaceutica XYFARMA, per supportare la decisione sullo sviluppo di un nuovo vaccino.
+Progetto realizzato in team durante la Build Week del corso, con l’obiettivo di fornire un’analisi strategica dei dati COVID-19 all’azienda farmaceutica fittizia XYFARMA, per supportare la decisione sullo sviluppo di un nuovo vaccino.
 
 ## 📌 Obiettivo
 
