@@ -9,7 +9,7 @@ Applicare strumenti e metodologie dell’analisi dei dati per trasformare grandi
 ---
 
 ## 🧰 Strumenti utilizzati
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn, BeautifulSoup)
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn, BeautifulSoup, Selenium)
 - **SQL** (query, join, aggregazioni)
 - **Excel Avanzato** (Power Query, Power Pivot, KPI)
 - **Google Looker Studio**
@@ -40,8 +40,8 @@ Sviluppo progetti concreti di data analysis, combinando visione business e compe
 
 ## 📬 Contatti
 
-- 🔗 [LinkedIn](https://linkedin.com/in/tuo-profilo)
-- 📫 Email: tuo.email@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/salvatore-fornaro/)
+- 📫 Email: sa.forn94@gmail.com
 - 🌐 Portfolio online: [www.tuosito.com](https://www.tuosito.com)
 
 ---
