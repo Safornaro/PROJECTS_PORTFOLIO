@@ -27,10 +27,7 @@ Applicare strumenti e metodologie dell’analisi dei dati per trasformare grandi
 | `sql-vendicose-restock-system` | Sistema di gestione stock e rifornimenti automatizzati per una catena di supermercati | SQL, Modellazione E/R, Query complesse |
 | `python-covid19-world-analysis` | Analisi globale dei dati COVID con focus su Europa e confronto tra paesi | Python, Pandas, Matplotlib, Seaborn |
 | `web-scraping-footwear` | Raccolta e analisi dei dati da siti di calzature sostenibili | Python, BeautifulSoup, Pandas |
-| `excel-sales-dashboard` | Dashboard interattiva per analisi vendite mensili | Excel, Power Query |
-| `sql-customer-analysis` | Analisi di clienti e fatturato su database SQL | SQL |
-| `looker-ecommerce-kpi` | Report Looker Studio su KPI e performance e-commerce | Looker Studio |
-| `data-cleaning-hospital` | Pulizia e normalizzazione dati sanitari disordinati | Python, Pandas |
+| `ecommerce-olist` | Dashboard interattiva per analisi vendite mensili, comunicare insight strategici tramite indicatori e grafici | Power BI|
 
 ---
 
@@ -45,7 +42,7 @@ Sviluppo progetti concreti di data analysis, combinando visione business e compe
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/salvatore-fornaro/)
 - 📫 Email: sa.forn94@gmail.com
-- 🌐 Portfolio online: [www.tuosito.com](https://www.tuosito.com)
+
 
 ---
 
