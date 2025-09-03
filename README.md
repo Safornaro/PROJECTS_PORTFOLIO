@@ -13,7 +13,7 @@ Applicare strumenti e metodologie dell’analisi dei dati per trasformare grandi
 - **SQL** (query, join, aggregazioni)
 - **Excel Avanzato** (Power Query, Power Pivot, KPI)
 - **Google Looker Studio**
-- **Power BI** (in corso di completamento)
+- **Power BI** 
 
 ---
 
