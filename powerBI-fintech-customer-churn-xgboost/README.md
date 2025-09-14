@@ -7,6 +7,7 @@ Infine, ho realizzato una **dashboard interattiva in Power BI**, pensata per sup
 
 Il lavoro è stato svolto con un approccio end-to-end, che parte da un dataset grezzo, prosegue con la pulizia, ingegnerizzazione delle variabili, modellazione predittiva, clustering e si conclude con la realizzazione di un **report interattivo in Power BI**.
 
+💻 Video presentazione progetto: (https://www.youtube.com/watch?v=C6oHX_CUdEI)
 ---
 
 ## 📁 Dataset
